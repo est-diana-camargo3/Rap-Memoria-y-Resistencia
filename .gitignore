@@ -4,7 +4,7 @@
 #
 .utmp/
 [Ll]ibrary/
-/[Tt]emp/
+[Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
@@ -107,3 +107,4 @@ Rap-Memoria-y-Resistencia/Temp/FSTimeGet-2c038fb60b032b64790776e71d2df8f7
 Rap-Memoria-y-Resistencia/Temp/FSTimeGet-4cf34aa34600bfe4a8e7de634b7c8812
 Rap-Memoria-y-Resistencia/Temp/FSTimeGet-4d53e85f6fbf17a428151430dbb2aa17
 Rap-Memoria-y-Resistencia/Temp/FSTimeGet-c4936f84f12c9154490335922b5131bb
+Rap-Memoria-y-Resistencia/Temp/FSTimeGet-a3cb17571edd54a4d9c92a398fe1803e
